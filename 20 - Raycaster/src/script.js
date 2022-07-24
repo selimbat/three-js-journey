@@ -76,6 +76,10 @@ window.addEventListener('mousemove', (event) => {
     mouse.y = -(2 * event.clientY / sizes.height - 1)
 })
 
+window.addEventListener('click', () => {
+    
+})
+
 /**
  * Camera
  */
